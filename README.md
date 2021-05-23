@@ -1,7 +1,7 @@
 # -Challenge-1
 Kickstarter Challenge
 
-##-Overview 
+## Overview 
 The project consists of analyzing the outcomes of the theater parent category by the year of their launch date and --- 
 the outcome of the "plays" subcategory based on the set goals. 
 
