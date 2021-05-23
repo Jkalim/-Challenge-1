@@ -25,11 +25,6 @@ There are 75% more successful outcomes than failed and canceled outcomes combine
 * Plays subcategory by goals
 Most of the goals are succesful overall except for the $25,000 to $35,000 and the over $45,000 range where the failed percentage is significantly---
 better. Low budget goals for plays are likely to be successful. 
-
-
-## Limitations
 The data set shows the facts but no explanation can be provided as far as why all outcomes are not successful. 
-
-## Other possible tables and graphs
- the theater and plays ouctomes by country could be helpful as we would get an insight on what region to try to fix or abort the campaingn. Graphs ---
+The theater and plays ouctomes by country could be helpful as we would get an insight on what region to try to fix or abort the campaingn. Graphs ---
  by countries would give us a clear visualization as far as which region is failing and succeeding. 
